@@ -9,7 +9,6 @@ class Plant():
         self.initial_height = height_input
 
     def age(self):
-
         self.plant_age += 1
 
     def grow(self):
